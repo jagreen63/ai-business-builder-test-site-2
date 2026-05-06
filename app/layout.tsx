@@ -1,14 +1,18 @@
-import React from 'react';
-import HomePage from './HomePage';
+import React from "react";
 
-const Layout = () => {
-  return (
-    <div>
-      <main>
-        <HomePage />
-      </main>
-    </div>
-  );
+export const metadata = {
+  title: "AI Business Builder Test Site",
+  description: "Generated business website"
 };
 
-export default Layout;
+export default function RootLayout({
+  children
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body>{children}</body>
+    </html>
+  );
+}
