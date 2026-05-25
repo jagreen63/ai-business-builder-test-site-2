@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Top Pressure Washing Services in Austin, TX',
-  description: 'Get expert pressure washing services in Austin, TX. Free quotes and fast scheduling for homes and businesses.',
+  title: 'San Antonio Pressure Washing Services | Free Quote',
+  description: 'Offering top-notch pressure washing in San Antonio, TX. Get a free quote and enjoy fast scheduling for your home or business.',
 };
 const RootLayout = ({ children }) => {
   return (
