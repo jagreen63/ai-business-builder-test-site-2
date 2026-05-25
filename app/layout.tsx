@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Top Pressure Washing Services in Miami, FL',
-  description: 'Get a free quote and fast scheduling for pressure washing in Miami. Perfect for homes and businesses!',
+  title: 'Pressure Washing Services in Charlotte, NC',
+  description: 'Get a free quote for pressure washing in Charlotte, NC. Fast scheduling for homes and businesses. Call us today!',
 };
 const RootLayout = ({ children }) => {
   return (
