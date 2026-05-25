@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Denver CO Pressure Washing Services',
-  description: 'Get fast, reliable pressure washing in Denver, CO with a free quote. Perfect for homes and businesses!',
+  title: 'Pressure Washing in Atlanta, GA - Free Quotes',
+  description: 'Atlanta\'s best pressure washing service. Fast scheduling & free quotes for homes and businesses.',
 };
 const RootLayout = ({ children }) => {
   return (
