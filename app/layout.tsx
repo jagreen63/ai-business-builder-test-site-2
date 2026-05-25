@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Top Pressure Washing in Indianapolis, IN',
-  description: 'Professional pressure washing services in Indianapolis to enhance your home\'s curb appeal. Call us for a free quote!',
+  title: 'Top Pressure Washing in Columbus, OH',
+  description: 'Choose our expert pressure washing services to enhance your Columbus home’s exterior. Call for a free estimate today!',
 };
 const RootLayout = ({ children }) => {
   return (
