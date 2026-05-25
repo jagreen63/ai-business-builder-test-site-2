@@ -1,18 +1,13 @@
-import React from "react";
-
+import React from 'react';
 export const metadata = {
-  title: "AI Business Builder Test Site",
-  description: "Generated business website"
+  title: 'Pressure Washing Fort Worth | Fast Quotes & Scheduling',
+  description: 'Professional pressure washing services in Fort Worth, TX. Get a same-day quote and fast scheduling for your home today!',
 };
-
-export default function RootLayout({
-  children
-}: {
-  children: React.ReactNode;
-}) {
+const RootLayout = ({ children }) => {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="bg-white text-gray-800">{children}</body>
     </html>
   );
-}
+};
+export default RootLayout;
