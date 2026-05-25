@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Affordable Eco-Friendly Pressure Washing in [City]',
-  description: 'Enhance your property\'s curb appeal with our professional pressure washing services. Fast quotes, eco-friendly solutions, and same-day service available.',
+  title: 'Top Pressure Washing in Indianapolis | Clean & Shine',
+  description: 'Expert pressure washing services in Indianapolis to restore your property’s beauty. Contact us for a free quote today!',
 };
 const RootLayout = ({ children }) => {
   return (
