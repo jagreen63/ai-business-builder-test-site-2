@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Las Vegas NV Pressure Washing Services',
-  description: 'Get top-notch pressure washing in Las Vegas. Free quotes and fast scheduling for homes and businesses.',
+  title: 'Denver CO Pressure Washing Services',
+  description: 'Get fast, reliable pressure washing in Denver, CO with a free quote. Perfect for homes and businesses!',
 };
 const RootLayout = ({ children }) => {
   return (
