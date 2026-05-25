@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Seattle Pressure Washing Services - Free Quotes',
-  description: 'Get professional pressure washing in Seattle, WA. Free quotes and fast scheduling available for homes and businesses.',
+  title: 'Orlando FL Pressure Washing - Same-Day Quotes',
+  description: 'Get expert pressure washing in Orlando, FL. Fast scheduling and same-day quotes for your home exterior cleaning needs.',
 };
 const RootLayout = ({ children }) => {
   return (
