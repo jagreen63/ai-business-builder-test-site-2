@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Top Pressure Washing in Indianapolis | Clean & Shine',
-  description: 'Expert pressure washing services in Indianapolis to restore your property’s beauty. Contact us for a free quote today!',
+  title: 'Columbus, OH Pressure Washing Services',
+  description: 'Top-notch pressure washing in Columbus, OH for homes and businesses.',
 };
 const RootLayout = ({ children }) => {
   return (
