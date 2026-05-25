@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'San Antonio Pressure Washing Services | Free Quote',
-  description: 'Offering top-notch pressure washing in San Antonio, TX. Get a free quote and enjoy fast scheduling for your home or business.',
+  title: 'Top Pressure Washing Service in Phoenix, AZ',
+  description: 'Contact us for free quotes and quick scheduling for pressure washing in Phoenix, AZ. Transform your property today!',
 };
 const RootLayout = ({ children }) => {
   return (
