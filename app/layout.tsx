@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Best Pressure Washing Services in Dallas - Affordable & Eco-Friendly',
-  description: 'Enhance your home\'s curb appeal with our affordable pressure washing services in Dallas. Expert technicians, same-day quotes, and eco-friendly products. Contact us today!',
+  title: 'Affordable Eco-Friendly Pressure Washing in [City]',
+  description: 'Enhance your property\'s curb appeal with our professional pressure washing services. Fast quotes, eco-friendly solutions, and same-day service available.',
 };
 const RootLayout = ({ children }) => {
   return (
