@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Top Pressure Washing in Houston, TX',
-  description: 'Get a free quote for expert pressure washing services in Houston. Fast scheduling available!',
+  title: 'Top Pressure Washing Services in Austin, TX',
+  description: 'Get expert pressure washing services in Austin, TX. Free quotes and fast scheduling for homes and businesses.',
 };
 const RootLayout = ({ children }) => {
   return (
