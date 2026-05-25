@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Pressure Washing Services in Charlotte, NC',
-  description: 'Get a free quote for pressure washing in Charlotte, NC. Fast scheduling for homes and businesses. Call us today!',
+  title: 'Nashville Pressure Washing - Free Quote & Fast Service',
+  description: 'Discover high-quality pressure washing services in Nashville, TN. Get a free quote and fast scheduling today!',
 };
 const RootLayout = ({ children }) => {
   return (
