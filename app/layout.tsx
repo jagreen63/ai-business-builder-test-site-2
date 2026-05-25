@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Top Pressure Washing in Tampa, FL - Clean & Shine',
-  description: 'Reliable pressure washing services for homes and businesses in Tampa, FL. Get a free estimate and enjoy a cleaner property today!',
+  title: 'Top Pressure Washing in Indianapolis, IN',
+  description: 'Professional pressure washing services in Indianapolis to enhance your home\'s curb appeal. Call us for a free quote!',
 };
 const RootLayout = ({ children }) => {
   return (
