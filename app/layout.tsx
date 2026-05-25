@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Top Tampa Pressure Washing Services',
-  description: 'Professional pressure washing in Tampa, FL for homes and businesses. Call now for a free estimate!',
+  title: 'Affordable Eco-Friendly Pressure Washing in [City]',
+  description: 'Enhance your property\'s curb appeal with our professional pressure washing services. Fast quotes, eco-friendly solutions, and same-day service available.',
 };
 const RootLayout = ({ children }) => {
   return (
