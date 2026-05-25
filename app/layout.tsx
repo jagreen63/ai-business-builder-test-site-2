@@ -1,7 +1,7 @@
 import React from 'react';
 export const metadata = {
-  title: 'Affordable Eco-Friendly Pressure Washing in [City]',
-  description: 'Enhance your property\'s curb appeal with our professional pressure washing services. Fast quotes, eco-friendly solutions, and same-day service available.',
+  title: 'Top Pressure Washing in Houston, TX',
+  description: 'Get a free quote for expert pressure washing services in Houston. Fast scheduling available!',
 };
 const RootLayout = ({ children }) => {
   return (
